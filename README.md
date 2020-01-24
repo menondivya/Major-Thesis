@@ -1,2 +1,2 @@
 # Major-Thesis
-COntains programs for the major thesis
+Contains programs for the major thesis
